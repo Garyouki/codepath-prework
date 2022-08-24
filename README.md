@@ -5,7 +5,7 @@ This is the project prework before attending the class
 
 ### App Walk-though
 
-<img src="https://recordit.co/BWKmXT2F1O.gif" width=200><br>
+<img src="[https://recordit.co/BWKmXT2F1O](https://recordit.co/0CDy5P5tW7).gif" width=200><br>
 
 
 ### Required User Stories
